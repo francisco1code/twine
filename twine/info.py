@@ -1,4 +1,4 @@
 # Preencha as informações pessoais nas variáveis abaixo
-nome = "Nome Completo"
-matricula = "12/3456789"
-email = "foo@bar.com"
+name = "Francisco Emanoel Ferreira da Penha"
+school_id = "17/0142329"
+email = "francisco170142329@gmail.com.com"
